@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import tempfile
 import time
 from GmailAutomation.InsertionPipeline.sendEmail import handle_escalation, mark_message_as_read, send_email, send_reply

@@ -38,7 +38,6 @@ env/
 
 # IDE files
 .idea/
-.vscode/
 *.swp
 *.swo
 gmailProcesses.log
@@ -46,3 +45,5 @@ gmailProcesses.log
 # OS specific files
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
